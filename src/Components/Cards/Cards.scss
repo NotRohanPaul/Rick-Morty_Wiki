@@ -1,0 +1,16 @@
+.cards {
+  border: 2px solid #0b5ed7;
+  border-radius: 10px;
+  margin: 10px;
+  overflow: hidden;
+  .badge {
+    top: 15px;
+    right: 20px;
+    font-size: calc(5px + 0.5vw);
+  }
+
+  .char-img {
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+}

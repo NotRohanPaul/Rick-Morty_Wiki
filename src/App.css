@@ -1,0 +1,8 @@
+.active {
+    border-bottom: 2px solid #0b5ed7;
+    color: #0b5ed7 !important;
+}
+
+.navbar {
+    background-color: #e6f2ff;
+}
